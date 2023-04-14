@@ -1,0 +1,3 @@
+# Final-output
+html code for finall output 
+The state of students in the Philippines in terms of study may vary depending on several factors such as their access to educational resources, technology, and socioeconomic background. The COVID-19 pandemic has also greatly affected the education system in the Philippines, with schools shifting to remote learning modalities to comply with social distancing measures. Some students may be struggling to cope with the changes and challenges of online learning, while others may be adapting well. The Philippine government, in collaboration with the Department of Education, has implemented various initiatives to ensure that students have access to quality education and support during these difficult times.
